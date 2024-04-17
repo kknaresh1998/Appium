@@ -47,9 +47,8 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 		driver.findElement(By.id("com.androidsample.generalstore:id/btnLetsShop")).click();
 		String toastMessage = driver.findElement(By.xpath("(//android.widget.Toast)[1]")).getAttribute("name");
 		AssertJUnit.assertEquals(toastMessage,"Please your name");
-		System.out.println("Hello world");
-		System.out.println("Hello world");
-		
+		Thread.sleep(2000);
+		System.out.println("this is my new change");
 		
 			
 	}

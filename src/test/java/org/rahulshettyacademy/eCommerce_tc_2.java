@@ -49,6 +49,10 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 		AssertJUnit.assertEquals(toastMessage,"Please your name");
 		Thread.sleep(2000);
 		System.out.println("this is my new change");
+		System.out.println("ajdhjhsdb");
+		System.out.println("fsdjcbbc");
+		System.out.println("dsbshdb");
+		
 		
 			
 	}

@@ -77,4 +77,13 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 		
 			
 	}
+	
+	@Test
+	public void appiumChanges() throws InterruptedException
+
+	
+	{
+		System.out.println("Appium Changes and push to new branch");
+			
+	}
 }

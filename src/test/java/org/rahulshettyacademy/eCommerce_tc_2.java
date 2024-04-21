@@ -52,7 +52,9 @@ public class eCommerce_tc_2 extends AndroidBaseTest{
 		System.out.println("ajdhjhsdb");
 		System.out.println("fsdjcbbc");
 		System.out.println("dsbshdb");
-		
+		System.out.println("GitAppium changes");
+		System.out.println("GitAppium changes");
+		System.out.println("GitAppium changes");
 		
 			
 	}

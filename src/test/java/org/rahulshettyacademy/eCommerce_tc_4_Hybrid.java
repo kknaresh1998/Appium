@@ -62,6 +62,9 @@ public class eCommerce_tc_4_Hybrid extends AndroidBaseTest{
 		AssertJUnit.assertEquals(totalSum, displayFormattedSum);
 		cartPage.acceptTermsConditions();
 		cartPage.submitOrder();
+		System.out.println("GitAppium changes");
+		System.out.println("GitAppium changes");
+		System.out.println("GitAppium changes");
 	
 	//		
 		
